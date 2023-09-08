@@ -18,4 +18,4 @@
 </ul>
 
 <h2>System Diagram</h2>
-![System Diagram](./assets/system_diagram.png)
+<img src="/assets/system_diagram.png" alt="system_diagram" title="System Diagram">
